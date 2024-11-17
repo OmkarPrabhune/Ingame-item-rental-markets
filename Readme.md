@@ -39,11 +39,7 @@ The vision of **Ingame Item Rental Markets** is to:
 ---
 
 ## Deployed Address
-The contract is deployed on the Aptos blockchain at the following address:
-```
-0xYourDeployedContractAddressHere
-```
-> Replace `0xYourDeployedContractAddressHere` with the actual address after deployment.
+The contract is deployed on the Aptos blockchain at the following address:0x95abe24a3101e44366c7c9257804c270e19ac571dfdbfc76a2ab3150a55a31d4
 
 ---
 
